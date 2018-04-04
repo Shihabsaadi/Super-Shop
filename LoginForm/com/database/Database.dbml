@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="shopdb" Class="DatabaseDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\shopdb.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="LoginForm.Properties.Settings" SettingsPropertyName="shopdbConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.ADMIN" Member="ADMINs">
+    <Type Name="ADMIN">
+      <Column Name="ADMIN_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="NAME" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="PHONE_NO" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="PASSWORD" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="ADMIN_CASHIER" Member="CASHIERs" ThisKey="ADMIN_ID" OtherKey="ADMIN_ID" Type="CASHIER" />
+      <Association Name="ADMIN_PRODUCT" Member="PRODUCTs" ThisKey="ADMIN_ID" OtherKey="ADMIN_ID" Type="PRODUCT" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CASHIER" Member="CASHIERs">
+    <Type Name="CASHIER">
+      <Column Name="CASHIER_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ADMIN_ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PASSWORD" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="DATE" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="PHONE_NO" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ADDRESS" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="SALARY" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="EMAIL" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="NAME" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="CASHIER_SELL_ITEM" Member="SELL_ITEMs" ThisKey="CASHIER_ID" OtherKey="CASHIER_ID" Type="SELL_ITEM" />
+      <Association Name="ADMIN_CASHIER" Member="ADMIN" ThisKey="ADMIN_ID" OtherKey="ADMIN_ID" Type="ADMIN" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SELL_ITEM" Member="SELL_ITEMs">
+    <Type Name="SELL_ITEM">
+      <Column Name="SELLING_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="PRODUCT_ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="QUNATITY" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="CASHIER_ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="DATE" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="PURCHASE" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="SELLING_PRICE" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="PROFIT" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Association Name="CASHIER_SELL_ITEM" Member="CASHIER" ThisKey="CASHIER_ID" OtherKey="CASHIER_ID" Type="CASHIER" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PRODUCT" Member="PRODUCTs">
+    <Type Name="PRODUCT">
+      <Column Name="PRODUCT_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="NAME" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="PURCHASE_PRICE" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="SELLING_PRICE" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="ADMIN_ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="SUPPLIER_ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="DATE" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="QUANTITY" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Association Name="ADMIN_PRODUCT" Member="ADMIN" ThisKey="ADMIN_ID" OtherKey="ADMIN_ID" Type="ADMIN" IsForeignKey="true" />
+      <Association Name="SUPPLIER_PRODUCT" Member="SUPPLIER" ThisKey="SUPPLIER_ID" OtherKey="SUPPLIER_ID" Type="SUPPLIER" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SUPPLIER" Member="SUPPLIERs">
+    <Type Name="SUPPLIER">
+      <Column Name="SUPPLIER_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="NAME" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="TYPE" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="SUPPLIER_PRODUCT" Member="PRODUCTs" ThisKey="SUPPLIER_ID" OtherKey="SUPPLIER_ID" Type="PRODUCT" />
+    </Type>
+  </Table>
+</Database>

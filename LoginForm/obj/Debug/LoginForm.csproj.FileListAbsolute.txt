@@ -1,0 +1,59 @@
+c:\users\stone\documents\visual studio 2012\Projects\SuperShopManagement\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\stone\Documents\Visual Studio 2012\Projects\SuperShopManagement\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\stone\Documents\Visual Studio 2012\Projects\SuperShopManagement\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\stone\Documents\Visual Studio 2012\Projects\SuperShopManagement\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+C:\Users\stone\Documents\Visual Studio 2012\Projects\SuperShopManagement\LoginForm\obj\Debug\LoginForm.Form1.resources
+C:\Users\stone\Documents\Visual Studio 2012\Projects\SuperShopManagement\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\stone\Documents\Visual Studio 2012\Projects\SuperShopManagement\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+C:\Users\stone\Documents\Visual Studio 2012\Projects\SuperShopManagement\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\stone\Documents\Visual Studio 2012\Projects\SuperShopManagement\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\stone\Documents\Visual Studio 2012\Projects\SuperShopManagement\LoginForm\obj\Debug\LoginForm.AdminShowPage.resources
+C:\Users\stone\Documents\Visual Studio 2012\Projects\SuperShopManagement\LoginForm\obj\Debug\LoginForm.AddCashier.resources
+C:\Users\stone\Documents\Visual Studio 2012\Projects\SuperShopManagement\LoginForm\obj\Debug\LoginForm.AddProduct.resources
+C:\Users\stone\Documents\Visual Studio 2012\Projects\SuperShopManagement\LoginForm\obj\Debug\LoginForm.CashierDetails.resources
+D:\stany sir projects\SuperShopManagement\LoginForm\bin\Debug\LoginForm.exe.config
+D:\stany sir projects\SuperShopManagement\LoginForm\obj\Debug\LoginForm.exe
+D:\stany sir projects\SuperShopManagement\LoginForm\obj\Debug\LoginForm.pdb
+D:\stany sir projects\SuperShopManagement\LoginForm\bin\Debug\LoginForm.exe
+D:\stany sir projects\SuperShopManagement\LoginForm\bin\Debug\LoginForm.pdb
+D:\stany sir projects\SuperShopManagement\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+D:\stany sir projects\SuperShopManagement\LoginForm\obj\Debug\LoginForm.AddCashier.resources
+D:\stany sir projects\SuperShopManagement\LoginForm\obj\Debug\LoginForm.AddProduct.resources
+D:\stany sir projects\SuperShopManagement\LoginForm\obj\Debug\LoginForm.AdminShowPage.resources
+D:\stany sir projects\SuperShopManagement\LoginForm\obj\Debug\LoginForm.Billing.resources
+D:\stany sir projects\SuperShopManagement\LoginForm\obj\Debug\LoginForm.Cashier.resources
+D:\stany sir projects\SuperShopManagement\LoginForm\obj\Debug\LoginForm.CashierDetails.resources
+D:\stany sir projects\SuperShopManagement\LoginForm\obj\Debug\LoginForm.Form1.resources
+D:\stany sir projects\SuperShopManagement\LoginForm\obj\Debug\LoginForm.Inventory.resources
+D:\stany sir projects\SuperShopManagement\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+D:\stany sir projects\SuperShopManagement\LoginForm\obj\Debug\LoginForm.RemoveCashier.resources
+D:\stany sir projects\SuperShopManagement\LoginForm\obj\Debug\LoginForm.RemoveProduct.resources
+D:\stany sir projects\SuperShopManagement\LoginForm\obj\Debug\LoginForm.TRANSACTION.resources
+D:\stany sir projects\SuperShopManagement\LoginForm\obj\Debug\LoginForm.UpdateProduct.resources
+D:\stany sir projects\SuperShopManagement\LoginForm\obj\Debug\LoginForm.UpdateStock.resources
+D:\stany sir projects\SuperShopManagement\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\bin\Debug\LoginForm.exe.config
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.exe
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.pdb
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\bin\Debug\LoginForm.exe
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\bin\Debug\LoginForm.pdb
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.AddCashier.resources
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.AddProduct.resources
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.AdminShowPage.resources
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.Billing.resources
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.Cashier.resources
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.CashierDetails.resources
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.Form1.resources
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.Inventory.resources
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.RemoveCashier.resources
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.RemoveProduct.resources
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.TRANSACTION.resources
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.UpdateProduct.resources
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.UpdateStock.resources
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.ProfitCalculation.resources
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.Supplier.resources
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\bin\Debug\Bunifu_UI_v1.52.dll
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\bin\Debug\MetroFramework.dll

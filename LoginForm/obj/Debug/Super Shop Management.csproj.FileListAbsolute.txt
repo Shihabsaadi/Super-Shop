@@ -1,0 +1,187 @@
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\bin\Debug\LoginForm.exe.config
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\bin\Debug\LoginForm.exe
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\bin\Debug\LoginForm.pdb
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\bin\Debug\Bunifu_UI_v1.52.dll
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\bin\Debug\MetroFramework.dll
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.Billing.resources
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\Super Shop Management.csproj.GenerateResource.Cache
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.exe
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.pdb
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.Login.resources
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.com.admin.AdminControllPage.resources
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.com.admin.userControl.CashierControl.resources
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.com.admin.userControl.ProfitCalculationControl.resources
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.com.admin.userControl.TransactionControl.resources
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.AdminPage.resources
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\Super Shop Management.csprojResolveAssemblyReference.cache
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.com.inventory.InventoryControl.resources
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.com.supplier.SupplierControl.resources
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\bin\Debug\com\database\SuperShopDB.mdf
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\bin\Debug\com\database\SuperShopDB_log.ldf
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.com.product.StockUserControl.resources
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.com.cashier.cashierControlPage.resources
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\bin\Debug\SuperShopDB.mdf
+D:\C# SuperShopManagement\SuperShopManagement\LoginForm\bin\Debug\SuperShopDB_log.ldf
+E:\C# SuperShopManagement\SuperShopManagement\LoginForm\bin\Debug\LoginForm.exe.config
+E:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.exe
+E:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\Super Shop Management.csprojResolveAssemblyReference.cache
+E:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.com.admin.AdminControllPage.resources
+E:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.com.admin.userControl.CashierControl.resources
+E:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.com.admin.userControl.ProfitCalculationControl.resources
+E:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.com.admin.userControl.TransactionControl.resources
+E:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.com.cashier.cashierControlPage.resources
+E:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.AdminPage.resources
+E:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.Billing.resources
+E:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.Login.resources
+E:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.com.product.StockUserControl.resources
+E:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.com.supplier.SupplierControl.resources
+E:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+E:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\Super Shop Management.csproj.GenerateResource.Cache
+E:\C# SuperShopManagement\SuperShopManagement\LoginForm\bin\Debug\LoginForm.exe
+E:\C# SuperShopManagement\SuperShopManagement\LoginForm\bin\Debug\LoginForm.pdb
+E:\C# SuperShopManagement\SuperShopManagement\LoginForm\obj\Debug\LoginForm.pdb
+E:\C# SuperShopManagement\SuperShopManagement\LoginForm\bin\Debug\com\database\Database.designer.cs
+E:\C# SuperShopManagement\SuperShopManagement\LoginForm\bin\Debug\com\database\Database.dbml.layout
+E:\C# SuperShopManagement\SuperShopManagement\LoginForm\bin\Debug\com\database\Database.dbml
+E:\C# SuperShopManagement\SuperShopManagement\LoginForm\bin\Debug\SuperShopDB.mdf
+E:\C# SuperShopManagement\SuperShopManagement\LoginForm\bin\Debug\SuperShopDB_log.ldf
+D:\SuperShopManagement -\LoginForm\bin\Debug\LoginForm.exe.config
+D:\SuperShopManagement -\LoginForm\obj\Debug\LoginForm.exe
+D:\SuperShopManagement -\LoginForm\obj\Debug\LoginForm.pdb
+D:\SuperShopManagement -\LoginForm\bin\Debug\com\database\Database.designer.cs
+D:\SuperShopManagement -\LoginForm\bin\Debug\com\database\Database.dbml.layout
+D:\SuperShopManagement -\LoginForm\bin\Debug\com\database\Database.dbml
+D:\SuperShopManagement -\LoginForm\bin\Debug\LoginForm.exe
+D:\SuperShopManagement -\LoginForm\bin\Debug\LoginForm.pdb
+D:\SuperShopManagement -\LoginForm\bin\Debug\Bunifu_UI_v1.52.dll
+D:\SuperShopManagement -\LoginForm\bin\Debug\MetroFramework.dll
+D:\SuperShopManagement -\LoginForm\obj\Debug\Super Shop Management.csprojResolveAssemblyReference.cache
+D:\SuperShopManagement -\LoginForm\obj\Debug\LoginForm.com.admin.AdminControllPage.resources
+D:\SuperShopManagement -\LoginForm\obj\Debug\LoginForm.com.admin.userControl.CashierControl.resources
+D:\SuperShopManagement -\LoginForm\obj\Debug\LoginForm.com.admin.userControl.ProfitCalculationControl.resources
+D:\SuperShopManagement -\LoginForm\obj\Debug\LoginForm.com.admin.userControl.TransactionControl.resources
+D:\SuperShopManagement -\LoginForm\obj\Debug\LoginForm.com.cashier.cashierControlPage.resources
+D:\SuperShopManagement -\LoginForm\obj\Debug\LoginForm.AdminPage.resources
+D:\SuperShopManagement -\LoginForm\obj\Debug\LoginForm.Billing.resources
+D:\SuperShopManagement -\LoginForm\obj\Debug\LoginForm.Login.resources
+D:\SuperShopManagement -\LoginForm\obj\Debug\LoginForm.com.product.StockUserControl.resources
+D:\SuperShopManagement -\LoginForm\obj\Debug\LoginForm.com.supplier.SupplierControl.resources
+D:\SuperShopManagement -\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+D:\SuperShopManagement -\LoginForm\obj\Debug\Super Shop Management.csproj.GenerateResource.Cache
+D:\SuperShopManagement -\LoginForm\bin\Debug\SuperShopDB.mdf
+D:\SuperShopManagement -\LoginForm\bin\Debug\SuperShopDB_log.ldf
+E:\latest4.29.2017.12.30.pm\5th\SuperShopManagement -\LoginForm\bin\Debug\LoginForm.exe.config
+E:\latest4.29.2017.12.30.pm\5th\SuperShopManagement -\LoginForm\obj\Debug\LoginForm.exe
+E:\latest4.29.2017.12.30.pm\5th\SuperShopManagement -\LoginForm\obj\Debug\LoginForm.pdb
+E:\latest4.29.2017.12.30.pm\5th\SuperShopManagement -\LoginForm\bin\Debug\SuperShopDB.mdf
+E:\latest4.29.2017.12.30.pm\5th\SuperShopManagement -\LoginForm\bin\Debug\SuperShopDB_log.ldf
+E:\latest4.29.2017.12.30.pm\5th\SuperShopManagement -\LoginForm\bin\Debug\com\database\Database.designer.cs
+E:\latest4.29.2017.12.30.pm\5th\SuperShopManagement -\LoginForm\bin\Debug\com\database\Database.dbml.layout
+E:\latest4.29.2017.12.30.pm\5th\SuperShopManagement -\LoginForm\bin\Debug\com\database\Database.dbml
+E:\latest4.29.2017.12.30.pm\5th\SuperShopManagement -\LoginForm\bin\Debug\LoginForm.exe
+E:\latest4.29.2017.12.30.pm\5th\SuperShopManagement -\LoginForm\bin\Debug\LoginForm.pdb
+E:\latest4.29.2017.12.30.pm\5th\SuperShopManagement -\LoginForm\bin\Debug\Bunifu_UI_v1.52.dll
+E:\latest4.29.2017.12.30.pm\5th\SuperShopManagement -\LoginForm\bin\Debug\MetroFramework.dll
+E:\latest4.29.2017.12.30.pm\5th\SuperShopManagement -\LoginForm\obj\Debug\Super Shop Management.csprojResolveAssemblyReference.cache
+E:\latest4.29.2017.12.30.pm\5th\SuperShopManagement -\LoginForm\obj\Debug\LoginForm.com.admin.AdminControllPage.resources
+E:\latest4.29.2017.12.30.pm\5th\SuperShopManagement -\LoginForm\obj\Debug\LoginForm.AdminPage.resources
+E:\latest4.29.2017.12.30.pm\5th\SuperShopManagement -\LoginForm\obj\Debug\LoginForm.com.admin.userControl.CashierControl.resources
+E:\latest4.29.2017.12.30.pm\5th\SuperShopManagement -\LoginForm\obj\Debug\LoginForm.com.admin.userControl.ProfitCalculationControl.resources
+E:\latest4.29.2017.12.30.pm\5th\SuperShopManagement -\LoginForm\obj\Debug\LoginForm.com.admin.userControl.TransactionControl.resources
+E:\latest4.29.2017.12.30.pm\5th\SuperShopManagement -\LoginForm\obj\Debug\LoginForm.Billing.resources
+E:\latest4.29.2017.12.30.pm\5th\SuperShopManagement -\LoginForm\obj\Debug\LoginForm.com.cashier.cashierControlPage.resources
+E:\latest4.29.2017.12.30.pm\5th\SuperShopManagement -\LoginForm\obj\Debug\LoginForm.Login.resources
+E:\latest4.29.2017.12.30.pm\5th\SuperShopManagement -\LoginForm\obj\Debug\LoginForm.com.product.StockUserControl.resources
+E:\latest4.29.2017.12.30.pm\5th\SuperShopManagement -\LoginForm\obj\Debug\LoginForm.com.supplier.SupplierControl.resources
+E:\latest4.29.2017.12.30.pm\5th\SuperShopManagement -\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+E:\latest4.29.2017.12.30.pm\5th\SuperShopManagement -\LoginForm\obj\Debug\Super Shop Management.csproj.GenerateResource.Cache
+C:\Users\GHOSH\Desktop\FinalPart\FinalPart\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\GHOSH\Desktop\FinalPart\FinalPart\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\GHOSH\Desktop\FinalPart\FinalPart\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\GHOSH\Desktop\FinalPart\FinalPart\LoginForm\bin\Debug\SuperShopDB.mdf
+C:\Users\GHOSH\Desktop\FinalPart\FinalPart\LoginForm\bin\Debug\SuperShopDB_log.ldf
+C:\Users\GHOSH\Desktop\FinalPart\FinalPart\LoginForm\bin\Debug\com\database\Database.designer.cs
+C:\Users\GHOSH\Desktop\FinalPart\FinalPart\LoginForm\bin\Debug\com\database\Database.dbml.layout
+C:\Users\GHOSH\Desktop\FinalPart\FinalPart\LoginForm\bin\Debug\com\database\Database.dbml
+C:\Users\GHOSH\Desktop\FinalPart\FinalPart\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\GHOSH\Desktop\FinalPart\FinalPart\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\GHOSH\Desktop\FinalPart\FinalPart\LoginForm\obj\Debug\Super Shop Management.csprojResolveAssemblyReference.cache
+C:\Users\GHOSH\Desktop\FinalPart\FinalPart\LoginForm\obj\Debug\LoginForm.com.admin.AdminControllPage.resources
+C:\Users\GHOSH\Desktop\FinalPart\FinalPart\LoginForm\obj\Debug\LoginForm.AdminPage.resources
+C:\Users\GHOSH\Desktop\FinalPart\FinalPart\LoginForm\obj\Debug\LoginForm.com.admin.userControl.CashierControl.resources
+C:\Users\GHOSH\Desktop\FinalPart\FinalPart\LoginForm\obj\Debug\LoginForm.com.admin.userControl.ProfitCalculationControl.resources
+C:\Users\GHOSH\Desktop\FinalPart\FinalPart\LoginForm\obj\Debug\LoginForm.com.admin.userControl.TransactionControl.resources
+C:\Users\GHOSH\Desktop\FinalPart\FinalPart\LoginForm\obj\Debug\LoginForm.Billing.resources
+C:\Users\GHOSH\Desktop\FinalPart\FinalPart\LoginForm\obj\Debug\LoginForm.com.cashier.cashierControlPage.resources
+C:\Users\GHOSH\Desktop\FinalPart\FinalPart\LoginForm\obj\Debug\LoginForm.Login.resources
+C:\Users\GHOSH\Desktop\FinalPart\FinalPart\LoginForm\obj\Debug\LoginForm.com.product.StockUserControl.resources
+C:\Users\GHOSH\Desktop\FinalPart\FinalPart\LoginForm\obj\Debug\LoginForm.com.supplier.SupplierControl.resources
+C:\Users\GHOSH\Desktop\FinalPart\FinalPart\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\GHOSH\Desktop\FinalPart\FinalPart\LoginForm\obj\Debug\Super Shop Management.csproj.GenerateResource.Cache
+E:\FinalPart\FinalPart\FinalPart\LoginForm\bin\Debug\LoginForm.exe.config
+E:\FinalPart\FinalPart\FinalPart\LoginForm\obj\Debug\LoginForm.exe
+E:\FinalPart\FinalPart\FinalPart\LoginForm\obj\Debug\LoginForm.pdb
+E:\FinalPart\FinalPart\FinalPart\LoginForm\bin\Debug\LoginForm.exe
+E:\FinalPart\FinalPart\FinalPart\LoginForm\bin\Debug\LoginForm.pdb
+E:\FinalPart\FinalPart\FinalPart\LoginForm\bin\Debug\Bunifu_UI_v1.52.dll
+E:\FinalPart\FinalPart\FinalPart\LoginForm\bin\Debug\MetroFramework.dll
+E:\FinalPart\FinalPart\FinalPart\LoginForm\obj\Debug\Super Shop Management.csprojResolveAssemblyReference.cache
+E:\FinalPart\FinalPart\FinalPart\LoginForm\obj\Debug\LoginForm.com.admin.AdminControllPage.resources
+E:\FinalPart\FinalPart\FinalPart\LoginForm\obj\Debug\LoginForm.AdminPage.resources
+E:\FinalPart\FinalPart\FinalPart\LoginForm\obj\Debug\LoginForm.com.admin.userControl.CashierControl.resources
+E:\FinalPart\FinalPart\FinalPart\LoginForm\obj\Debug\LoginForm.com.admin.userControl.ProfitCalculationControl.resources
+E:\FinalPart\FinalPart\FinalPart\LoginForm\obj\Debug\LoginForm.com.admin.userControl.TransactionControl.resources
+E:\FinalPart\FinalPart\FinalPart\LoginForm\obj\Debug\LoginForm.Billing.resources
+E:\FinalPart\FinalPart\FinalPart\LoginForm\obj\Debug\LoginForm.com.cashier.cashierControlPage.resources
+E:\FinalPart\FinalPart\FinalPart\LoginForm\obj\Debug\LoginForm.Login.resources
+E:\FinalPart\FinalPart\FinalPart\LoginForm\obj\Debug\LoginForm.com.product.StockUserControl.resources
+E:\FinalPart\FinalPart\FinalPart\LoginForm\obj\Debug\LoginForm.com.supplier.SupplierControl.resources
+E:\FinalPart\FinalPart\FinalPart\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+E:\FinalPart\FinalPart\FinalPart\LoginForm\obj\Debug\Super Shop Management.csproj.GenerateResource.Cache
+E:\FinalPart\FinalPart\FinalPart\LoginForm\bin\Debug\shopdb.mdf
+E:\FinalPart\FinalPart\FinalPart\LoginForm\bin\Debug\shopdb_log.ldf
+C:\Users\stone\Desktop\main\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\stone\Desktop\main\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\stone\Desktop\main\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\stone\Desktop\main\LoginForm\bin\Debug\shopdb.mdf
+C:\Users\stone\Desktop\main\LoginForm\bin\Debug\shopdb_log.ldf
+C:\Users\stone\Desktop\main\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\stone\Desktop\main\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\stone\Desktop\main\LoginForm\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\stone\Desktop\main\LoginForm\bin\Debug\MetroFramework.dll
+C:\Users\stone\Desktop\main\LoginForm\obj\Debug\Super Shop Management.csprojResolveAssemblyReference.cache
+C:\Users\stone\Desktop\main\LoginForm\obj\Debug\LoginForm.com.admin.AdminControllPage.resources
+C:\Users\stone\Desktop\main\LoginForm\obj\Debug\LoginForm.AdminPage.resources
+C:\Users\stone\Desktop\main\LoginForm\obj\Debug\LoginForm.com.admin.userControl.CashierControl.resources
+C:\Users\stone\Desktop\main\LoginForm\obj\Debug\LoginForm.com.admin.userControl.ProfitCalculationControl.resources
+C:\Users\stone\Desktop\main\LoginForm\obj\Debug\LoginForm.com.admin.userControl.TransactionControl.resources
+C:\Users\stone\Desktop\main\LoginForm\obj\Debug\LoginForm.Billing.resources
+C:\Users\stone\Desktop\main\LoginForm\obj\Debug\LoginForm.com.cashier.cashierControlPage.resources
+C:\Users\stone\Desktop\main\LoginForm\obj\Debug\LoginForm.Login.resources
+C:\Users\stone\Desktop\main\LoginForm\obj\Debug\LoginForm.com.product.StockUserControl.resources
+C:\Users\stone\Desktop\main\LoginForm\obj\Debug\LoginForm.com.supplier.SupplierControl.resources
+C:\Users\stone\Desktop\main\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\stone\Desktop\main\LoginForm\obj\Debug\Super Shop Management.csproj.GenerateResource.Cache
+G:\New folder\java\pro\main\LoginForm\bin\Debug\LoginForm.exe.config
+G:\New folder\java\pro\main\LoginForm\obj\Debug\LoginForm.exe
+G:\New folder\java\pro\main\LoginForm\obj\Debug\LoginForm.pdb
+G:\New folder\java\pro\main\LoginForm\obj\Debug\Super Shop Management.csprojResolveAssemblyReference.cache
+G:\New folder\java\pro\main\LoginForm\obj\Debug\LoginForm.com.admin.AdminControllPage.resources
+G:\New folder\java\pro\main\LoginForm\obj\Debug\LoginForm.AdminPage.resources
+G:\New folder\java\pro\main\LoginForm\obj\Debug\LoginForm.com.admin.userControl.CashierControl.resources
+G:\New folder\java\pro\main\LoginForm\obj\Debug\LoginForm.com.admin.userControl.ProfitCalculationControl.resources
+G:\New folder\java\pro\main\LoginForm\obj\Debug\LoginForm.com.admin.userControl.TransactionControl.resources
+G:\New folder\java\pro\main\LoginForm\obj\Debug\LoginForm.Billing.resources
+G:\New folder\java\pro\main\LoginForm\obj\Debug\LoginForm.com.cashier.cashierControlPage.resources
+G:\New folder\java\pro\main\LoginForm\obj\Debug\LoginForm.Login.resources
+G:\New folder\java\pro\main\LoginForm\obj\Debug\LoginForm.com.product.StockUserControl.resources
+G:\New folder\java\pro\main\LoginForm\obj\Debug\LoginForm.com.supplier.SupplierControl.resources
+G:\New folder\java\pro\main\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+G:\New folder\java\pro\main\LoginForm\obj\Debug\Super Shop Management.csproj.GenerateResource.Cache
+G:\New folder\java\pro\main\LoginForm\bin\Debug\shopdb.mdf
+G:\New folder\java\pro\main\LoginForm\bin\Debug\shopdb_log.ldf
+G:\New folder\java\pro\main\LoginForm\bin\Debug\LoginForm.exe
+G:\New folder\java\pro\main\LoginForm\bin\Debug\LoginForm.pdb
+G:\New folder\java\pro\main\LoginForm\bin\Debug\Bunifu_UI_v1.52.dll
+G:\New folder\java\pro\main\LoginForm\bin\Debug\MetroFramework.dll
